@@ -52,14 +52,4 @@ Depending on the lab session or assignment, you may find programs related to:
 
 ---
 
-## 🗂️ Folder / File Structure
 
-```bash
-OOP_lab_codes/
-│
-├── lab1/
-├── lab2/
-├── lab3/
-├── ...
-├── README.md
-└── main.cpp / .java / .py
